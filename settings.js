@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237683449198"
-global.ownername = "𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳"
+global.ownernomer = "243904468847"
+global.ownername = "𖥳𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '24390446887'  //creator number
+global.ownernumber = '243904468847'  //creator number
 global.ownername = 'SHE GRIMM BY //owner name
-global.botname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳' //name of the bot
+global.botname = 'SHUNA_BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = '𖥳⟅⸢𝐓𝐇𝐄〖𝐅𝐌𝐋〗𝐆𝐑𝐈𝐌𝐌⸥⟆𖥳'
